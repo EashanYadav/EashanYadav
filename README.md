@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EashanYadav
-- 👀 I’m interested in Python and web development
-- 🌱 I’m currently learning python and web development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me - eashan1902@gmail.com
 
 <!---
